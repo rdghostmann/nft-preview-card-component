@@ -3,6 +3,7 @@
 My solution to FEM nft-preview-card-component-main challenges 
 
 ![Design preview](./design/nft_preview.png)
+# Preview: https://brilliant-churros-305d6b.netlify.app/
 
 ## Welcome! 👋
 
