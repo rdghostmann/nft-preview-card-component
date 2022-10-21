@@ -2,7 +2,7 @@
 # nft-preview-card-component
 My solution to FEM nft-preview-card-component-main challenges 
 
-![Design preview](./design/desktop-preview.jpg)
+![Design preview](./design/nft_preview.png)
 
 ## Welcome! 👋
 
